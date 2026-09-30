@@ -71,6 +71,8 @@ blockquote span { display: block; margin-bottom: 13px; font: 700 10px ui-monospa
 .doctoral-rqs span { color: #e69a80; font: 700 10px ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: .09em; }
 .doctoral-rqs h4 { margin: 10px 0; font-family: Georgia, "Times New Roman", serif; font-size: 18px; font-weight: 500; line-height: 1.3; }
 .doctoral-rqs p { font-size: 12.5px; line-height: 1.6; }
+.programme-source { display: inline-block; margin-top: 16px; color: #e69a80; font-size: 12px; font-weight: 650; text-decoration: none; border-bottom: 1px solid rgba(230, 154, 128, .45); }
+.programme-source:hover { color: #fff; border-bottom-color: #fff; }
 .programme-subheading { margin: 42px 0 24px; }
 .future-directions { display: grid; grid-template-columns: repeat(3, 1fr); }
 .future-directions article { min-height: 190px; padding: 24px 25px 0; border-left: 1px solid #415055; }
