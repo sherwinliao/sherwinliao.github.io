@@ -48,6 +48,7 @@ blockquote { align-self: start; margin: 0; padding: 27px 28px; background: var(-
 blockquote span { display: block; margin-bottom: 13px; font: 700 10px ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: .12em; text-transform: uppercase; }
 .section-heading { max-width: 760px; margin-bottom: 48px; }
 .section-heading h2, .pathway-intro h2, .media-heading h2, .contact h2 { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: clamp(38px, 4.3vw, 57px); font-weight: 500; line-height: 1.08; letter-spacing: -.035em; }
+.programme-scope { max-width: 720px; margin: 21px 0 0; color: var(--muted); font-size: 17px; line-height: 1.7; }
 .section-heading > p:last-child { max-width: 650px; margin: 21px 0 0; color: var(--muted); font-size: 17px; line-height: 1.7; }
 .research-list { border-top: 1px solid var(--ink); }
 .research-card { display: grid; grid-template-columns: 70px 1fr; gap: 22px; padding: 34px 0; border-bottom: 1px solid var(--line); }
